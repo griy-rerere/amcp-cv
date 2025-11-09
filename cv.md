@@ -16,3 +16,24 @@
 **Мой Гитхаб**
 *https://github.com/Griy-dot-py*
 *(На данный момент потерял к нему доступ)*
+
+### Навыки
+ * ***Git***
+ * ***Python***
+ * ***Flask***
+ * ***FastAPI***
+ * ***SQL***
+ * ***Postgres***
+ * ***ORM***
+ * ***Redis***
+ * ***REST API***
+ * ***Docker***
+ * ***Linux***
+ * ***System design***
+ * ***Clean architecture***
+
+
+### Языки
+ * **Русский** (родной)
+ * **Английский (B1~B2)**
+ * **Японский (N5~N4)**
